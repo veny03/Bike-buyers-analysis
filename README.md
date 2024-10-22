@@ -1,6 +1,8 @@
 # Bike Buyers Data Analysis
 
 This project involves analyzing a dataset of bike buyers to uncover key demographic trends and customer behaviors. The goal of this analysis is to help businesses understand their customers better and make data-driven decisions for targeted marketing and inventory management.
+![bike1](https://github.com/user-attachments/assets/f8c7de94-27f5-4754-96fa-a4cf9c546574)
+
 
 ## Project Overview
 
